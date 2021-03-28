@@ -1,8 +1,8 @@
 # bootcamp2020c25
 * Mirage Server
-* Mirage runs in the browser, so there’s no new terminal processes to manage
-* Returning data from Mirage is as fast and easy as writing frontend code
-* You never alter your application code to consume data from Mirage – your app thinks it’s talking to a real network
+  * Mirage runs in the browser, so there’s no new terminal processes to manage
+  * Returning data from Mirage is as fast and easy as writing frontend code
+  * You never alter your application code to consume data from Mirage – your app thinks it’s talking to a real network
 
 External Links
 * [Intermediate Tutorial: Redux Toolkit in Action](https://redux-toolkit.js.org/tutorials/overview)
